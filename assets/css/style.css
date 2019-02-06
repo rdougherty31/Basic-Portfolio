@@ -14,20 +14,20 @@ header {
     width: 100%;
     z-index: 500;
 }
-header h1 {
-    margin-left: 280px;
+.header {
+    width: 960px;
+    margin: 0 auto;
 }
 nav {
     float: right;
     margin-top: 65px;
-    margin-right: 250px;
 }
 nav a {
     color: #777777;
     text-decoration: none;
     font-size: 12pt;
-    padding: 18px;
-    margin: 18px;
+    padding: 18px 0px 18px 18px;
+    margin: 18px 0px 18px 18px;
 }
 /*fix nav hover button movement*/
 a:hover {
