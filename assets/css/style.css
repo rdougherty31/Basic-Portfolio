@@ -29,14 +29,13 @@ nav a {
     padding: 18px 0px 18px 18px;
     margin: 18px 0px 18px 18px;
 }
-/*fix nav hover button movement*/
-a:hover {
+nav a:hover {
     border: 2px dashed #cccccc;
     color: #4aaaa5;
     padding: 10px;
     margin: 10px;
 }
-a:active {
+nav a:active {
     color: #777777;
     font-size: 90%;
     font-weight: bold;
