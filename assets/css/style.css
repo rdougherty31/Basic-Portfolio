@@ -5,6 +5,7 @@ html, body {
     color: #777777;
     background-image: url("../images/marbleBG.jpg");
     background-color:#cccccc;
+    background-size: cover;
 }
 header {
     background: #ffffff;
