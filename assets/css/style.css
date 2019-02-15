@@ -299,6 +299,7 @@ footer {
         width: 90%;
         margin-top: 10%;
         margin-left: 5%;
+        margin-bottom: 15%;
     }
     #aboutMe img {
         height: 90%;
@@ -338,5 +339,8 @@ footer {
     .main hr {
         margin-top: 20px;
         margin-bottom: 20px;
+    }
+    footer {
+        position: static;
     }
 }
